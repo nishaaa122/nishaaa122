@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nisha Patel</h1>
 <h3 align="center">Sharing My Tech Journey: Projects, Learnings, and Exploration</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishaaa122&label=Profile%20views&color=0e75b6&style=flat" alt="nishaaa122" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishaaa122" alt="nishaaa122" /></a> </p>
+- 📫 How to reach me **nishapatel262216@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
